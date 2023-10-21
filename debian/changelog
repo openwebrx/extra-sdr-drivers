@@ -1,4 +1,4 @@
-extra-sdr-drivers (1) UNRELEASED; urgency=low
+extra-sdr-drivers (1.0) UNRELEASED; urgency=low
 
   * First release
   * Added SoapySDR Module for Airspy HF+
