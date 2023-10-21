@@ -1,0 +1,15 @@
+Source: extra-sdr-drivers
+Maintainer: Jakob Ketterl <jakob.ketterl@gmx.de>
+Section: hamradio
+Priority: optional
+Rules-Requires-Root: no
+Standards-Version: 4.2.0
+Build-Depends: debhelper (>= 11)
+Homepage: https://www.openwebrx.de
+
+package: extra-sdr-drivers
+Architecture: all
+Depends: ${misc:Depends}, soapysdr-module-airspyhf
+Description: Extra SDR radio drivers
+ This meta package installs all the extra SDR device drivers and libraries
+ from the OpenWebRX repository.

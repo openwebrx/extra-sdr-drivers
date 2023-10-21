@@ -1,0 +1,6 @@
+extra-sdr-drivers (1) UNRELEASED; urgency=low
+
+  * First release
+  * Added SoapySDR Module for Airspy HF+
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sat, 21 Oct 2023 18:15:00 +0000
