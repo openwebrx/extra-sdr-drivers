@@ -9,7 +9,7 @@ Homepage: https://www.openwebrx.de
 
 package: extra-sdr-drivers
 Architecture: all
-Depends: ${misc:Depends}, soapysdr0.8-module-airspyhf | soapysdr-module-airspyhf
+Depends: ${misc:Depends}, soapysdr0.8-module-airspyhf | soapysdr-module-airspyhf, soapysdr0.8-module-fcdpp | soapysdr-module-fcdpp
 Description: Extra SDR radio drivers
  This meta package installs all the extra SDR device drivers and libraries
  from the OpenWebRX repository.
