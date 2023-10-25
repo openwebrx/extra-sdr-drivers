@@ -7,7 +7,7 @@ Standards-Version: 4.2.0
 Build-Depends: debhelper (>= 11)
 Homepage: https://www.openwebrx.de
 
-package: extra-sdr-drivers
+Package: extra-sdr-drivers
 Architecture: all
 Depends: ${misc:Depends}, soapysdr0.8-module-airspyhf | soapysdr-module-airspyhf, soapysdr0.8-module-fcdpp | soapysdr-module-fcdpp, soapysdr0.8-module-plutosdr | soapysdr-module-plutosdr
 Description: Extra SDR radio drivers
